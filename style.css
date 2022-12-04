@@ -29,22 +29,22 @@ body {
 h3 {
   margin: 0;
   opacity: 0.5;
-  letter-spacing: 2px;
+  letter-spacing: 5px;
 }
 
 .joke {
-  font-size: 30px;
+  font-size: 25px;
   letter-spacing: 1px;
-  line-height: 35px;
-  margin: 40px auto;
-  max-width: 600px;
+  line-height: 30px;
+  margin: 45px auto;
+  max-width: 595px;
 }
 
 .btn {
   background-color: #9f68e0;
   color: #fff;
   border: 0;
-  border-radius: 10px;
+  border-radius: 15px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
   padding: 14px 35px;
   font-size: 15px;

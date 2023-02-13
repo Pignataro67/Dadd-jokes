@@ -20,3 +20,9 @@
 .slide.active {
   opacity: 1;
 }
+
+.arrow {
+    position: fixed;
+    background-color: transparent;
+    color: #fff;
+  }

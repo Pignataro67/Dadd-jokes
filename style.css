@@ -14,11 +14,11 @@
   top: -15vh;
   left: -15vw;
   transition: 0.4s ease;
-  z-index: 2;
+  z-index: 5;
 }  
 
 .slide.active {
-  opacity: 1;
+  opacity: 5;
 }
 
 .arrow {

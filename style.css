@@ -6,8 +6,8 @@
 
 .slide {
   opacity: 0;
-  height: 95vh;
-  width: 95vw;
+  height: 100vh;
+  width: 1055vw;
   background-position: center center;
   background-size: cover;
   position: absolute;

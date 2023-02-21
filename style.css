@@ -38,9 +38,9 @@
   }
   
   .left-arrow {
-    left: calc(15vw - 70px);
+    left: calc(15vw - 60px);
   }
   
   .right-arrow {
-    right: calc(15vw - 60px);
+    right: calc(20vw - 50px);
   }

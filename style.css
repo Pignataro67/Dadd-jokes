@@ -28,7 +28,7 @@
   padding: 30px;  
   font-size: 25px;
   border: 2px solid orange;
-  top: 45%;
+  top: 50%;
   transform: translateY(-40%);
   cursor: pointer;
 }
@@ -42,5 +42,5 @@
   }
   
   .right-arrow {
-    right: calc(20vw - 50px);
+    right: calc(20vw - 55px);
   }

@@ -18,13 +18,13 @@
 }  
 
 .slide.active {
-  opacity: 5;
+  opacity: 7;
 }
 
 .arrow {
   position: fixed;
   background-color: transparent;
-  color: #fff;
+  color: #fef;
   padding: 25px;  
   font-size: 30px;
   border: 2px solid orange;

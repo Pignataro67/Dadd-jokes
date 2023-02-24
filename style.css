@@ -27,8 +27,8 @@
   color: #fef;
   padding: 30px;  
   font-size: 25px;
-  border: 2px solid orange;
-  top: 50%;
+  border: 5px solid orange;
+  top: 45%;
   transform: translateY(-40%);
   cursor: pointer;
 }

@@ -44,3 +44,10 @@
   .right-arrow {
     right: calc(25vw - 55px);
   }
+
+  nav {
+    background-color: #fff;
+    padding: 20px;
+    width: 80px;
+    display: flex;
+  }

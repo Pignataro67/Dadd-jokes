@@ -4,47 +4,6 @@
   box-sizing: border-box;
 }
 
-.slide {
-  opacity: 0;
-  height: 90vh;
-  width: 1055vw;
-  background-position: center center;
-  background-size: cover;
-  position: absolute;
-  top: -30vh;
-  left: -15vw;
-  transition: 0.3s ease;
-  z-index: 7;
-}  
-
-.slide.active {
-  opacity: 5;
-}
-
-.arrow {
-  position: fixed;
-  background-color: transparent;
-  color: #fef;
-  padding: 35px;  
-  font-size: 25px;
-  border: 5px solid orange;
-  top: 45%;
-  transform: translateY(-40%);
-  cursor: pointer;
-}
-
-.arrow:focus {
-  outline: 0;
-}
-  
-.left-arrow {
-  left: calc(20vw - 60px);
-}
-  
-.right-arrow {
-  right: calc(25vw - 55px);
-}
-
 nav {
   background-color: #fff;
   padding: 25px;

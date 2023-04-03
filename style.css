@@ -59,3 +59,9 @@
     width: 350px;
   }
   
+
+  nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+  }

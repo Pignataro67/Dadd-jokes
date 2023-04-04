@@ -27,6 +27,12 @@ nav ul {
   transition: width 0.6s linear;
 }
 
+.icon {
+  background-color: #fff;
+  border: 0;
+  cursor: pointer;
+}
+
 .icon:focus {
   outline: 0;
 }

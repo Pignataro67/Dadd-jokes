@@ -27,6 +27,12 @@ nav ul {
   transition: width 0.6s linear;
 }
 
+nav ul a {
+  position: relative;
+  color: #000;
+  text-decoration: none;
+}
+
 .icon {
   background-color: #fff;
   border: 0;

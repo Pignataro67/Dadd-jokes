@@ -93,3 +93,8 @@ main {
 .movie-info span.red {
   color: red;
 }
+
+.overview {
+  padding: 2rem;
+  position: absolute;
+}

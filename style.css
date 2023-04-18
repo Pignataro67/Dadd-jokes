@@ -54,15 +54,15 @@ main {
   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
   position: relative;
   overflow: hidden;
-  border-radius: 3px;
+  border-radius: 5px;
 }
 
 .movie img {
-  width: 100%;
+  width: 95%;
 }
 
 .movie-info {
-  color: #eee;
+  color: #efe;
   display: flex;
   align-items: center;
   justify-content: space-between;

@@ -16,7 +16,7 @@ body {
 }
 
 header {
-  padding: 2rem;
+  padding: 5rem;
   display: flex;
   justify-content: flex-end;
   background-color: var(--secondary-color);
@@ -24,7 +24,7 @@ header {
 
 .search {
   background-color: transparent;
-  border: 10px solid var(--primary-color);
+  border: 5px solid var(--primary-color);
   border-radius: 55px;
   font-family: inherit;
   font-size: 1rem;

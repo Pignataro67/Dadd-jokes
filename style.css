@@ -58,7 +58,7 @@ main {
 }
 
 .movie img {
-  width: 95%;
+  width: 90%;
 }
 
 .movie-info {
@@ -78,7 +78,7 @@ main {
 .movie-info span {
   background-color: var(--primary-color);
   padding: 0.25rem 0.5rem;
-  border-radius: 5px;
+  border-radius: 10px;
   font-weight: bold;
 }
 

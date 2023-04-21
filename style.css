@@ -100,7 +100,7 @@ main {
   left: 0;
   bottom: 0;
   right: 0;
-  max-height: 95%;
+  max-height: 90%;
   transform: translateY(103%);
   overflow-y: auto;
   transition: transform 0.7s ease-in;

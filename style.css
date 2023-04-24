@@ -109,3 +109,9 @@ main {
 .movie:hover .overview {
   transform: translateY(0);
 }
+
+.overview {
+  background-color: #fff;
+  padding: 2rem;
+  position: absolute;
+}

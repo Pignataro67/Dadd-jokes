@@ -122,3 +122,7 @@ main {
   overflow-y: auto;
   transition: transform 0.5s ease-in;
 }
+
+.movie-info h3 {
+  margin-top: 0;
+}

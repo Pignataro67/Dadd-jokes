@@ -82,8 +82,8 @@ main {
 
 .movie-info span {
   background-color: var(--primary-color);
-  padding: 0.25rem 06.rem;
-  border-radius: 25px;
+  padding: 0.25rem 05.rem;
+  border-radius: 20px;
   font-weight: bold;
 }
 

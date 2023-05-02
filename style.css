@@ -16,7 +16,7 @@ body {
 }
 
 header {
-  padding: 7rem;
+  padding: 5rem;
   display: flex;
   justify-content: flex-end;
   background-color: var(--secondary-color);

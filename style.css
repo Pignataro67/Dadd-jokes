@@ -137,3 +137,12 @@ main {
 .movie-info span.green {
   color: lightgreen;
 }
+
+.movie-info span.orange {
+  color: orange;
+}
+
+.overview {
+  background-color: #fff;
+  padding: 2rem;
+}

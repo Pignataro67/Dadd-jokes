@@ -24,7 +24,7 @@ header {
 
 .search {
   background-color: transparent;
-  border: 5px solid var(--primary-color);
+  border: 10px solid var(--primary-color);
   border-radius: 10px;
   font-family: inherit;
   font-size: 2rem;
@@ -33,7 +33,7 @@ header {
 }
 
 .search::placeholder {
-  color: #7380c5;
+  color: #7375c5;
 }
 
 .search:focus {

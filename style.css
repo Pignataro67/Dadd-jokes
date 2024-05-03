@@ -20,4 +20,6 @@ body {
   background-color: #ffffff;
   color: rebeccapurple;
   font-family: inherit;
+  border: none;
+  cursor: pointer;
 }

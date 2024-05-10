@@ -46,9 +46,9 @@ body {
 
   .toast {
   background-color: #fff;
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 2rem 3rem;
-  margin: 0.5rem;
+  margin: 0.6rem;
 }
 
 .toast.info {

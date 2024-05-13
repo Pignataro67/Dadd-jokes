@@ -28,3 +28,9 @@ h1 {
     max-width: 100%;
     width: 400px;
   }
+  
+  .input {
+    border: none;
+    color: #444;
+    font-size: 2rem;
+  }

@@ -48,3 +48,11 @@ function addTodo(todo) {
         updateLS()
     }
 }
+
+function updateLS() {
+    todosEl = document.querySelectorAll('li')
+
+    const todos = []
+
+    localStorage.setItem('todos', JSON.stringify(todos))
+}
